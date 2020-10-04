@@ -17,10 +17,5 @@ Considerations:
 ### Make Your Own Tier List!
 I used [this template](https://tiermaker.com/create/boba-tier-list-cerritos-artesia-41255), but I added a few more shops to mine.
 It looks like this!
-![looks like this](
-
-
-
-### Support or Contact
-
+![looks like this](https://raw.githubusercontent.com/isabelaesteban/BobaRatings/main/Screen%20Shot%202020-10-03%20at%2010.34.03%20PM.png)
 
