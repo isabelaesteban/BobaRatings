@@ -7,7 +7,12 @@ I'm obsessed with boba, and I buy it weekly, sometimes daily. I figured I would 
 
 ![Here it is.](https://raw.githubusercontent.com/isabelaesteban/BobaRatings/main/IMG_0517.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Considerations: 
+1. Tea-to-milk ratio
+2. Options for sweetness level and ice level
+3. Quality of tea (i.e. smooth or powdery)
+4. Boba quality (chewy, warm, flavor)
+5. Variety of options
 
 ### Jekyll Themes
 
