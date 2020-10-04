@@ -5,7 +5,7 @@ I'm obsessed with boba, and I buy it weekly, sometimes daily. I figured I would 
 
 ### The Rank
 
-
+![Here it is.](https://raw.githubusercontent.com/isabelaesteban/BobaRatings/main/IMG_0517.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
